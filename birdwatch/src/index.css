@@ -1,0 +1,220 @@
+body{
+    margin: 0px;
+    background-color: rgb(202, 228, 228);
+}
+
+
+#header-group{
+    background-color: rgb(138, 189, 189);
+}
+
+#header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 0px;
+    font-family: "Fredoka";
+    color: rgb(202, 202, 88);
+}
+
+#bird{
+    color: rgb(150, 161, 161);
+}
+
+#title{
+    font-size: 3rem;
+    margin-bottom: 0px;
+}
+
+#tag{
+    margin-bottom: 16px;
+    color: black;
+    margin-top: 0px;
+}
+
+#options{
+    display: flex;
+    padding-left: 64px;
+    padding-right: 64px;
+    justify-content: space-between;
+    font-family: "Open Sans";
+    padding-bottom: 16px;
+}
+
+#home-body{
+    margin-top: 8px;
+    padding: 16px;
+    border: solid black 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    font-family: "Open Sans";
+}
+
+#favourite-body{
+    margin-top: 8px;
+    padding: 16px;
+    border: solid black 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    font-family: "Open Sans";
+}
+
+#about-body{
+    margin-top: 8px;
+    padding: 16px;
+    border: solid black 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    font-family: "Open Sans";
+}
+
+#search-body{
+    margin-top: 8px;
+    padding: 16px;
+    border: solid black 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+}
+
+#search-master{
+    margin-top: 8px;
+    padding: 16px;
+    border: solid black 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    font-family: "Open Sans";
+    align-items: center;
+    text-align: center;
+}
+
+#bird-item{
+    margin-top: 8px;
+    padding: 16px;
+    border: solid rgba(0, 0, 0, 0.226) 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    background-color: rgb(138, 189, 189);
+    font-family: "Open Sans";
+    text-align: left;
+    box-shadow: 0.5px 1px;
+}
+
+#bird-item:hover{
+    margin-top: 8px;
+    padding: 16px;
+    border: solid rgba(0, 0, 0, 0.226) 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    background-color: rgb(152, 207, 207);
+    font-family: "Open Sans";
+    text-align: left;
+    box-shadow: 0.5px 1px;
+    transition: 0.5s;
+}
+
+#selected-bird-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    padding: 16px;
+    border: solid black 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    font-family: "Open Sans";
+}
+
+#bird-image{
+    width: 448px;
+    border: solid rgba(0, 0, 0, 0.068) 1px;
+    border-radius: 8px;
+    box-shadow: 1px 1px;
+}
+
+#selected-bird{
+    margin: 8px;
+    padding: 16px;
+    font-family: "Open Sans";
+    border: solid rgba(0, 0, 0, 0.226) 1px;
+    border-radius: 8px;
+    background-color: rgb(138, 189, 189);
+    align-items: center;
+    text-align: center;
+    width: 512px;
+    justify-content: center;
+}
+
+#logbutton {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#favourite-bird {
+    margin: 8px;
+    padding: 16px;
+    font-family: "Open Sans";
+    border: solid rgba(0, 0, 0, 0.226) 1px;
+    border-radius: 8px;
+    background-color: rgb(138, 189, 189);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#favourite-master {
+    margin-top: 8px;
+    padding: 16px;
+    border: solid black 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    font-family: "Open Sans";
+    align-items: center;
+    text-align: center;
+}
+
+#login-master {
+    margin-top: 8px;
+    padding: 16px;
+    border: solid black 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    font-family: "Open Sans";
+    align-items: center;
+    text-align: center;
+}
+
+#signup-master {
+    margin-top: 8px;
+    padding: 16px;
+    border: solid black 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    font-family: "Open Sans";
+    align-items: center;
+    text-align: center;
+}
+
+#about-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#linkedin {
+    font-size: 3rem;
+}
