@@ -7,25 +7,36 @@ Any feedback would be greatly appreciated.  As this is my final major project as
 
 # Technologies used:
 
-React
-Express
-PostgreSQL
-JWT Authentication
-eBird API[found here](https://documenter.getpostman.com/view/664302/S1ENwy59)
-iNaturalist API[found here](https://www.inaturalist.org/pages/api%2Breference)
+React  
+
+Express  
+
+PostgreSQL  
+
+JWT Authentication  
+
+eBird API[found here](https://documenter.getpostman.com/view/664302/S1ENwy59)  
+
+iNaturalist API[found here](https://www.inaturalist.org/pages/api%2Breference)  
+
 
 # Instructions to setup:
 
 ## Install frontend
 
-npm install
-npm run dev
+npm install  
+
+npm run dev  
+
 
 ## Install backend
 
-cd server
-npm install
-npm start
+cd server  
+
+npm install  
+
+npm start  
+
 
 # Screenshots of site
 
