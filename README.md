@@ -39,7 +39,7 @@ This is the example of the homepage.
 
 This is how the search page is currently displayed.  As noted on the home page, it requires additional refinement, however this would mean utilising a different API which can handle searches based on size, colour etc.
 
-[Search page](Search.png)
+![Search page](Search.png)
 
 ## Search Results
 
