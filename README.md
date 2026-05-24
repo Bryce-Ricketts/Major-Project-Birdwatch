@@ -33,7 +33,7 @@ npm start
 
 This is the example of the homepage.
 
-[Homepage](Home.png)
+![Homepage](Home.png)
 
 ## Search
 
@@ -45,17 +45,17 @@ This is how the search page is currently displayed.  As noted on the home page, 
 
 This is how the search results are displayed, with an option to add them to your sightings list.
 
-[Search results](SearchResult.png)
+![Search results](SearchResult.png)
 
 ## Saved Sightings
 
 This is where saved sightings are stored.  These are stored per user, and saved across login/logouts.
 
-[Sightings](Sightings.png)
+![Sightings](Sightings.png)
 
 ## Login
 
-[Login page](ValidLogin.png)
+![Login page](ValidLogin.png)
 
 This is an example of entering valid information into the login.
 
@@ -63,7 +63,7 @@ This is an example of entering valid information into the login.
 
 This is an example of what is returned upon entering invalid information into the login.
 
-[Invalid Login results](InvalidLogin.png)
+![Invalid Login results](InvalidLogin.png)
 
 # A breakdown of the technologies and frontend/backend:
 
